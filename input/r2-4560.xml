@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>r2-4560.jpg</filename>
+  <path>/Users/administrador/PycharmProjects/OpenLabeling/OpenLabeling/main/input/r2-4560.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>400</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Robot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>158</xmin>
+      <ymin>23</ymin>
+      <xmax>256</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+</annotation>

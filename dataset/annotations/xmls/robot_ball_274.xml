@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>robot_ball_274.xml</filename>
+  <path>/Users/administrador/PycharmProjects/OpenLabeling/OpenLabeling/main/input/r2-3900.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Robot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>106</xmin>
+      <ymin>340</ymin>
+      <xmax>155</xmax>
+      <ymax>430</ymax>
+    </bndbox>
+  </object>
+</annotation>

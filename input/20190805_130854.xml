@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>20190805_130854.jpg</filename>
+  <path>/Users/administrador/PycharmProjects/OpenLabeling/OpenLabeling/main/input/20190805_130854.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>400</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Ball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>156</xmin>
+      <ymin>180</ymin>
+      <xmax>198</xmax>
+      <ymax>212</ymax>
+    </bndbox>
+  </object>
+</annotation>
